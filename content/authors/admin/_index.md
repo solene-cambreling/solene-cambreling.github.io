@@ -6,9 +6,6 @@ title: Solène Cambreling
 first_name: Solène
 last_name: Cambreling
 
-# Status emoji
-status:Dr
-
 # Is this the primary user of the site?
 superuser: true
 
